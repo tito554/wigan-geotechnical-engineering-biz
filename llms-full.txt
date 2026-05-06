@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Wigan
+
+> Geotechnical engineering services in Wigan, United Kingdom.
+
+## Services
+- [Anchors](https://wigan.geotechnical-engineering.biz/anchors/)
+- [Atterberg Limits](https://wigan.geotechnical-engineering.biz/atterberg-limits/)
+- [Cbr Road](https://wigan.geotechnical-engineering.biz/cbr-road/)
+- [Cpt Test](https://wigan.geotechnical-engineering.biz/cpt-test/)
+- [Deep Excavations](https://wigan.geotechnical-engineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://wigan.geotechnical-engineering.biz/excavation-monitoring/)
+- [Excavations](https://wigan.geotechnical-engineering.biz/excavations/)
+- [Flexible Pavement](https://wigan.geotechnical-engineering.biz/flexible-pavement/)
+- [Footings](https://wigan.geotechnical-engineering.biz/footings/)
+- [Foundations](https://wigan.geotechnical-engineering.biz/foundations/)
+- [Grain Size](https://wigan.geotechnical-engineering.biz/grain-size/)
+- [Ground Improvement](https://wigan.geotechnical-engineering.biz/ground-improvement/)
+- [Grouting](https://wigan.geotechnical-engineering.biz/grouting/)
+- [In Situ Permeability](https://wigan.geotechnical-engineering.biz/in-situ-permeability/)
+- [Investigation](https://wigan.geotechnical-engineering.biz/investigation/)
+- [Lab In Situ](https://wigan.geotechnical-engineering.biz/lab-in-situ/)
+- [Laboratory](https://wigan.geotechnical-engineering.biz/laboratory/)
+- [Liquefaction](https://wigan.geotechnical-engineering.biz/liquefaction/)
+- [Masw](https://wigan.geotechnical-engineering.biz/masw/)
+- [Mat Foundations](https://wigan.geotechnical-engineering.biz/mat-foundations/)
+- [Piles](https://wigan.geotechnical-engineering.biz/piles/)
+- [Proctor Tests](https://wigan.geotechnical-engineering.biz/proctor-tests/)
+- [Resistivity](https://wigan.geotechnical-engineering.biz/resistivity/)
+- [Retaining Walls](https://wigan.geotechnical-engineering.biz/retaining-walls/)
+- [Rigid Pavement](https://wigan.geotechnical-engineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://wigan.geotechnical-engineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://wigan.geotechnical-engineering.biz/sand-cone-density/)
+- [Seismic](https://wigan.geotechnical-engineering.biz/seismic/)
+- [Seismic Isolation](https://wigan.geotechnical-engineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://wigan.geotechnical-engineering.biz/seismic-microzonation/)
+- [Seismic Refraction](https://wigan.geotechnical-engineering.biz/seismic-refraction/)
+- [Slope Stability](https://wigan.geotechnical-engineering.biz/slope-stability/)
+- [Slopes](https://wigan.geotechnical-engineering.biz/slopes/)
+- [Soft Ground Tunnels](https://wigan.geotechnical-engineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://wigan.geotechnical-engineering.biz/spt-drilling/)
+- [Stone Columns](https://wigan.geotechnical-engineering.biz/stone-columns/)
+- [Test Pits](https://wigan.geotechnical-engineering.biz/test-pits/)
+- [Triaxial](https://wigan.geotechnical-engineering.biz/triaxial/)
+- [Vibrocompaction](https://wigan.geotechnical-engineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://wigan.geotechnical-engineering.biz/
+
+## About
+This site provides geotechnical engineering services in Wigan, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
